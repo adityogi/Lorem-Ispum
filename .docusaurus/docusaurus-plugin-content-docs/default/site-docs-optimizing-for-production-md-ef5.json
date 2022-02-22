@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Optimizing-For-Production",
+  "id": "Optimizing-For-Production",
+  "title": "Production in TailWind CSS",
+  "description": "Tailwind CSS is incredibly performance focused and aims to produce the smallest CSS file possible by only generating the CSS you are actually using in your project.",
+  "source": "@site/docs/Optimizing-For-Production.md",
+  "sourceDirName": ".",
+  "slug": "/Optimizing-For-Production",
+  "permalink": "/docs/Optimizing-For-Production",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Optimizing-For-Production.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Production in TailWind CSS",
+    "sidebar_position": 2,
+    "Description": "A utility-first CSS framework packed with classes like flex, pt-4, text-center and rotate-90 that can be composed to build any design, directly in your markup."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Installation of TailWind CSS",
+    "permalink": "/docs/my-docs"
+  },
+  "next": {
+    "title": "Tutorial Intro",
+    "permalink": "/docs/intro"
+  }
+}

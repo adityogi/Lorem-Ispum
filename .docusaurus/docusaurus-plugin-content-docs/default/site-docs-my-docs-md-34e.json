@@ -1,0 +1,24 @@
+{
+  "unversionedId": "my-docs",
+  "id": "my-docs",
+  "title": "Installation of TailWind CSS",
+  "description": "Create your HTML File",
+  "source": "@site/docs/my-docs.md",
+  "sourceDirName": ".",
+  "slug": "/my-docs",
+  "permalink": "/docs/my-docs",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/my-docs.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Installation of TailWind CSS",
+    "sidebar_position": 1,
+    "Description": "A utility-first CSS framework packed with classes like flex, pt-4, text-center and rotate-90 that can be composed to build any design, directly in your markup."
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Production in TailWind CSS",
+    "permalink": "/docs/Optimizing-For-Production"
+  }
+}
