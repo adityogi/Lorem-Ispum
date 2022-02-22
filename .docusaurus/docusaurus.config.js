@@ -5,8 +5,8 @@ Modify the docusaurus.config.js file at your site's root instead.
 */
 export default {
   "title": "TailWindCSS",
-  "tagline": "“Best practices” don’t actually work",
-  "url": "https://your-docusaurus-test-site.com",
+  "tagline": "CSS “Best practices” don’t actually work!",
+  "url": "https://tailwindcssdocs.vercel.app/",
   "baseUrl": "/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",

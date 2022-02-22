@@ -7,8 +7,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'TailWindCSS',
-  tagline: '“Best practices” don’t actually work',
-  url: 'https://your-docusaurus-test-site.com',
+  tagline: 'CSS “Best practices” don’t actually work!',
+  url: 'https://tailwindcssdocs.vercel.app/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
