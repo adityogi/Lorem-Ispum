@@ -6,14 +6,14 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'TailWindCSS',
+  title: 'Lorem Ispum',
   tagline: 'CSS “Best practices” don’t actually work!',
   url: 'https://tailwindcssdocs.vercel.app/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/tailwindcss.svg',
-  projectName: 'TailWIndCSS', // Usually your repo name.
+  favicon: 'img/font.png',
+  projectName: 'Lorem Ispum', // Usually your repo name.
 
   presets: [
     [
@@ -43,10 +43,10 @@ const config = {
     ({
       navbar: {
         // style: 'primary',
-        title: 'TailWind CSS',
+        title: 'Lorem Ispum',
         logo: {
           alt: 'TailWindCSS Logo',
-          src: 'img/tailwindcss.svg',
+          src: 'img/font.png',
         },
         items: [
           {
@@ -64,13 +64,13 @@ const config = {
         ],
       },
       footer: {
-        style: 'light',
+        style: 'dark',
         links: [
           {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
+                label: 'Documentation',
                 to: '/docs/my-docs',
               },
             ],
@@ -96,6 +96,10 @@ const config = {
             title: 'More',
             items: [
               {
+                label: 'Home',
+                to: 'https://tailwindcssdocs.vercel.app/',
+              },
+              {
                 label: 'Blog',
                 to: '/blog',
               },
@@ -106,7 +110,7 @@ const config = {
             ],
           },
         ],
-        copyright: `${new Date().getFullYear()} TailWindCSS Documentation, Built with Docusaurus.`,
+        copyright: `${new Date().getFullYear()} Lorem Ispum Documentation, Built with Docusaurus.`,
       },
       prism: {
         darkTheme: darkCodeTheme,

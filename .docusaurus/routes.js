@@ -40,7 +40,7 @@ export default [
   },
   {
     path: '/blog',
-    component: ComponentCreator('/blog','520'),
+    component: ComponentCreator('/blog','572'),
     exact: true
   },
   {
@@ -69,13 +69,23 @@ export default [
     exact: true
   },
   {
+    path: '/blog/tags/blog',
+    component: ComponentCreator('/blog/tags/blog','48d'),
+    exact: true
+  },
+  {
     path: '/blog/tags/docusaurus',
-    component: ComponentCreator('/blog/tags/docusaurus','ddf'),
+    component: ComponentCreator('/blog/tags/docusaurus','435'),
     exact: true
   },
   {
     path: '/blog/tags/facebook',
     component: ComponentCreator('/blog/tags/facebook','ede'),
+    exact: true
+  },
+  {
+    path: '/blog/tags/filler',
+    component: ComponentCreator('/blog/tags/filler','2d6'),
     exact: true
   },
   {
@@ -86,6 +96,16 @@ export default [
   {
     path: '/blog/tags/hola',
     component: ComponentCreator('/blog/tags/hola','752'),
+    exact: true
+  },
+  {
+    path: '/blog/tags/lorem-ispum',
+    component: ComponentCreator('/blog/tags/lorem-ispum','491'),
+    exact: true
+  },
+  {
+    path: '/blog/TailWindCSS v3',
+    component: ComponentCreator('/blog/TailWindCSS v3','fcc'),
     exact: true
   },
   {

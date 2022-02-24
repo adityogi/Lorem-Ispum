@@ -1,4 +1,32 @@
 {
+  "/blog/tags/filler": {
+    "allTagsPath": "/blog/tags",
+    "slug": "/blog/tags/filler",
+    "name": "Filler",
+    "count": 1,
+    "permalink": "/blog/tags/filler"
+  },
+  "/blog/tags/lorem-ispum": {
+    "allTagsPath": "/blog/tags",
+    "slug": "/blog/tags/lorem-ispum",
+    "name": "Lorem Ispum",
+    "count": 1,
+    "permalink": "/blog/tags/lorem-ispum"
+  },
+  "/blog/tags/blog": {
+    "allTagsPath": "/blog/tags",
+    "slug": "/blog/tags/blog",
+    "name": "Blog",
+    "count": 1,
+    "permalink": "/blog/tags/blog"
+  },
+  "/blog/tags/docusaurus": {
+    "allTagsPath": "/blog/tags",
+    "slug": "/blog/tags/docusaurus",
+    "name": "docusaurus",
+    "count": 5,
+    "permalink": "/blog/tags/docusaurus"
+  },
   "/blog/tags/facebook": {
     "allTagsPath": "/blog/tags",
     "slug": "/blog/tags/facebook",
@@ -12,13 +40,6 @@
     "name": "hello",
     "count": 2,
     "permalink": "/blog/tags/hello"
-  },
-  "/blog/tags/docusaurus": {
-    "allTagsPath": "/blog/tags",
-    "slug": "/blog/tags/docusaurus",
-    "name": "docusaurus",
-    "count": 4,
-    "permalink": "/blog/tags/docusaurus"
   },
   "/blog/tags/hola": {
     "allTagsPath": "/blog/tags",

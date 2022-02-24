@@ -15,3 +15,9 @@ slorber:
   title: Docusaurus maintainer
   url: https://sebastienlorber.com
   image_url: https://github.com/slorber.png
+
+lorem:
+  name: Lorem Ipsum
+  title: Standard dummy text
+  url: https://www.lipsum.com/
+  image_url: https://cdn.pixabay.com/photo/2017/04/09/09/56/avenue-2215317_1280.jpg

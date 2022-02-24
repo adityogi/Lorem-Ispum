@@ -4,14 +4,14 @@ Your edits in this file will be overwritten in the next build!
 Modify the docusaurus.config.js file at your site's root instead.
 */
 export default {
-  "title": "TailWindCSS",
+  "title": "Lorem Ispum",
   "tagline": "CSS “Best practices” don’t actually work!",
   "url": "https://tailwindcssdocs.vercel.app/",
   "baseUrl": "/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
-  "favicon": "img/tailwindcss.svg",
-  "projectName": "TailWIndCSS",
+  "favicon": "img/font.png",
+  "projectName": "Lorem Ispum",
   "presets": [
     [
       "classic",
@@ -32,10 +32,10 @@ export default {
   ],
   "themeConfig": {
     "navbar": {
-      "title": "TailWind CSS",
+      "title": "Lorem Ispum",
       "logo": {
         "alt": "TailWindCSS Logo",
-        "src": "img/tailwindcss.svg"
+        "src": "img/font.png"
       },
       "items": [
         {
@@ -58,13 +58,13 @@ export default {
       "hideOnScroll": false
     },
     "footer": {
-      "style": "light",
+      "style": "dark",
       "links": [
         {
           "title": "Docs",
           "items": [
             {
-              "label": "Tutorial",
+              "label": "Documentation",
               "to": "/docs/my-docs"
             }
           ]
@@ -90,6 +90,10 @@ export default {
           "title": "More",
           "items": [
             {
+              "label": "Home",
+              "to": "https://tailwindcssdocs.vercel.app/"
+            },
+            {
               "label": "Blog",
               "to": "/blog"
             },
@@ -100,7 +104,7 @@ export default {
           ]
         }
       ],
-      "copyright": "2022 TailWindCSS Documentation, Built with Docusaurus."
+      "copyright": "2022 Lorem Ispum Documentation, Built with Docusaurus."
     },
     "prism": {
       "darkTheme": {

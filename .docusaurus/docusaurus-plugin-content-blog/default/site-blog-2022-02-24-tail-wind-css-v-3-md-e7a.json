@@ -1,0 +1,53 @@
+{
+  "permalink": "/blog/TailWindCSS v3",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2022-02-24-TailWindCSS-v3.md",
+  "source": "@site/blog/2022-02-24-TailWindCSS-v3.md",
+  "title": "Lorem Ispum Blog Post",
+  "description": "Trees on a trail",
+  "date": "2022-02-24T00:00:00.000Z",
+  "formattedDate": "February 24, 2022",
+  "tags": [
+    {
+      "label": "Filler",
+      "permalink": "/blog/tags/filler"
+    },
+    {
+      "label": "Lorem Ispum",
+      "permalink": "/blog/tags/lorem-ispum"
+    },
+    {
+      "label": "Blog",
+      "permalink": "/blog/tags/blog"
+    },
+    {
+      "label": "docusaurus",
+      "permalink": "/blog/tags/docusaurus"
+    }
+  ],
+  "readingTime": 3.23,
+  "truncated": false,
+  "authors": [
+    {
+      "name": "Lorem Ipsum",
+      "title": "Standard dummy text",
+      "url": "https://www.lipsum.com/",
+      "imageURL": "https://cdn.pixabay.com/photo/2017/04/09/09/56/avenue-2215317_1280.jpg",
+      "key": "lorem"
+    }
+  ],
+  "frontMatter": {
+    "slug": "TailWindCSS v3",
+    "title": "Lorem Ispum Blog Post",
+    "authors": "lorem",
+    "tags": [
+      "Filler",
+      "Lorem Ispum",
+      "Blog",
+      "docusaurus"
+    ]
+  },
+  "nextItem": {
+    "title": "Welcome",
+    "permalink": "/blog/welcome"
+  }
+}

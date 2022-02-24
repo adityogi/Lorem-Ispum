@@ -51,6 +51,10 @@
       "docusaurus"
     ]
   },
+  "prevItem": {
+    "title": "Lorem Ispum Blog Post",
+    "permalink": "/blog/TailWindCSS v3"
+  },
   "nextItem": {
     "title": "MDX Blog Post",
     "permalink": "/blog/mdx-blog-post"

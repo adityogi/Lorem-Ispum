@@ -2,6 +2,10 @@
   "title": "Recent posts",
   "items": [
     {
+      "title": "Lorem Ispum Blog Post",
+      "permalink": "/blog/TailWindCSS v3"
+    },
+    {
       "title": "Welcome",
       "permalink": "/blog/welcome"
     },
