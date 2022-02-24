@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklorem_ispum=self.webpackChunklorem_ispum||[]).push([[462],{5482:function(l){l.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/filler","name":"Filler","count":1,"permalink":"/blog/tags/filler"}')}}]);

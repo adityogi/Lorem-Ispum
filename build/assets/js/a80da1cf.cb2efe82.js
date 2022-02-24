@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklorem_ispum=self.webpackChunklorem_ispum||[]).push([[205],{4863:function(s){s.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/docusaurus","name":"docusaurus","count":5,"permalink":"/blog/tags/docusaurus"}')}}]);

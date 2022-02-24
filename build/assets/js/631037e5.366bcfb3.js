@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklorem_ispum=self.webpackChunklorem_ispum||[]).push([[801],{7064:function(l){l.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/blog","name":"Blog","count":1,"permalink":"/blog/tags/blog"}')}}]);
